@@ -17,8 +17,6 @@
 [Bb]in/
 [Oo]ut/
 [Oo]bj/
-.vscode/ipch/
-.vscode/*.log
 .DS_Store
 Thumbs.db
 desktop.ini
